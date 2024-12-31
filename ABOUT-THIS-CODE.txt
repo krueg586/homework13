@@ -1,0 +1,4 @@
+This Java file 'SortedCollection.java' was part of an assignment that had a purpose of getting us to implement our own sorting methods efficiently to sort a collection, specifically a linked list in this case.
+
+The methods I implemented from scratch are as follows:
+merge(), partition(), quicksort(), the SortedCollection(Comparator<E> comp) constructor, size(), clear(), add(), and addAll().
